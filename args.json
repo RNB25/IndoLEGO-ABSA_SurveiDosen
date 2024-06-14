@@ -1,0 +1,1 @@
+{"seed": 42, "n_gpu": "2", "td_config": "/content/drive/MyDrive/TAabsa/configs/td_config.json", "vd_config": "/content/drive/MyDrive/TAabsa/configs/vd_config.json", "train_args": "/content/drive/MyDrive/TAabsa/configs/train_args.json", "max_len": 128, "model_name_or_path": "google/mt5-base", "prompt": "no_prompt", "answer": "gas", "shuffle_train": true}
