@@ -1,0 +1,1 @@
+[{"path": "data/absa/id/uper/dev_uper.txt", "nt_se_order": "aos", "tasks": ["aos", "ao", "as", "a", "o"], "n_fold": 5, "algo": "round_robin", "shuffle": true}]
